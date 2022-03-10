@@ -7,7 +7,7 @@
   \************************************************************************************/
 /***/ (() => {
 
-throw new Error("Module parse failed: Unexpected token (6:16)\nFile was processed with these loaders:\n * ./node_modules/eslint-loader/dist/cjs.js\nYou may need an additional loader to handle the result of these loaders.\n| \n| //find our app div defined in index.html and render the app inside that\n> ReactDOM.render(<App />, document.getElementById('root'));\n| ");
+throw new Error("Module parse failed: Unexpected token (6:4)\nFile was processed with these loaders:\n * ./node_modules/eslint-loader/dist/cjs.js\nYou may need an additional loader to handle the result of these loaders.\n| \n| ReactDOM.render(\n>     <App />,\n|     document.getElementById('root')\n| );");
 
 /***/ }),
 
