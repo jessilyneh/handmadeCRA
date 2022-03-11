@@ -1,5 +1,5 @@
 {
-  "name": "to-do-manager",
+  "name": "react-dev-build",
   "version": "1.0.0",
   "description": "A simple tool to create, view and store task history",
   "main": "src/index.js",
