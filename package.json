@@ -1,7 +1,7 @@
 {
   "name": "react-dev-build",
   "version": "1.0.0",
-  "description": "A simple tool to create, view and store task history",
+  "description": "This project was to learn how create-react-app (CRA) works under the hood, creating a very simple build project, using only the absolutely necessary.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
